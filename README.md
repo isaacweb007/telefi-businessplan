@@ -3,7 +3,7 @@
 텔레그램 미니앱 + 웹으로 동시 출시하는 크립토 전용 카지노 사업계획서입니다.
 슬롯 · 카드(테이블) · 라이브 카지노 · 미니게임을 다루며 스포츠북은 제외합니다.
 
-**문서 보기 → https://isaacweb007.github.io/telefi-businessplan/**
+**문서 보기 → https://plan.telefi.cc/**
 
 ## 담긴 내용
 
